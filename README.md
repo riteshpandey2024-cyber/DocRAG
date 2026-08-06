@@ -195,5 +195,3 @@ DocRAG/
 - `rag/llm.py` generates the final answer
 
 ## Recommended next step
-
-If you want, I can also turn this into a more polished README with badges, screenshots, and a quick demo section.

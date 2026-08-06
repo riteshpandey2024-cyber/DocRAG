@@ -194,4 +194,4 @@ DocRAG/
 - `rag/ingest.py` parses PDFs and stores embeddings
 - `rag/llm.py` generates the final answer
 
-## Recommended next step
+
